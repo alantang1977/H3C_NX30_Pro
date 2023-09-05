@@ -1,3 +1,6 @@
+# H3C NX30Pro 刷 openwrt 教程
+
+## https://blog.qust.me/nx30pro
 
 # 后台管理地址：
 # 管理ip：192.168.5.1
