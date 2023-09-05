@@ -5,7 +5,7 @@
 # 无线wifi名称：OpenWrt
 # 无线wifi密码：password
 
-https://blog.wwang.pw/post/nx30pro.html
+## https://blog.wwang.pw/post/nx30pro.html
 
 ## 1. 固定电脑网卡进入uboot，刷入`immortalwrt-mediatek-mt7981-h3c_nx30pro-squashfs-factory.bin`
 
