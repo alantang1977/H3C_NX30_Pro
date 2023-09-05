@@ -26,3 +26,11 @@
 ## 3. 等待几分钟后，192.168.5.1进入op后台
 
 ![Snipaste_2023-08-16_10-49-51](https://cdn.staticaly.com/gh/xiaowansm5/img@master/Typora/Snipaste_2023-08-16_10-49-51.6c5l6p2213g0.webp)
+
+
+## 默认登录信息
+## IP：192.168.1.1
+## 用户：root
+## 密码：password
+
+## https://openwrt.mpdn.fun:8443/?dir=lede/mtk/2023-09-05__06-02-08--h3c_nx30pro.mini-daily
