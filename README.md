@@ -2,13 +2,13 @@
 
 ## https://blog.qust.me/nx30pro
 
+
+## https://blog.wwang.pw/post/nx30pro.html
 # 后台管理地址：
 # 管理ip：192.168.5.1
 # 用户名和密码：root/password
 # 无线wifi名称：OpenWrt
 # 无线wifi密码：password
-
-## https://blog.wwang.pw/post/nx30pro.html
 
 ## 1. 固定电脑网卡进入uboot，刷入`immortalwrt-mediatek-mt7981-h3c_nx30pro-squashfs-factory.bin`
 
