@@ -1,8 +1,8 @@
-H3C NX30Pro 刷 openwrt 教程
+# H3C NX30Pro 刷 openwrt 教程
 
 ## https://blog.qust.me/nx30pro
 
-# MD5校验:5c12bd472c255a1e28819e95a3151bf1  (uboot.bin)刷时确保MD5校验码正确
+## MD5校验:5c12bd472c255a1e28819e95a3151bf1  (uboot.bin)刷时确保MD5校验码正确
 ## https://blog.wwang.pw/post/nx30pro.html
 # 后台管理地址：
 # 管理ip：192.168.5.1
