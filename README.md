@@ -5,7 +5,7 @@
 ## MD5校验:5c12bd472c255a1e28819e95a3151bf1  (uboot.bin)刷时确保MD5校验码正确
 ## https://blog.wwang.pw/post/nx30pro.html
 # 后台管理地址：
-# 管理ip：192.168.5.1
+# 管理ip：192.168.1.98
 # 用户名和密码：root/password
 # 无线wifi名称：OpenWrt
 # 无线wifi密码：password
