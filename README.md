@@ -37,3 +37,7 @@
 ## 密码：password
 
 ## https://openwrt.mpdn.fun:8443/?dir=lede/mtk/2023-09-05__06-02-08--h3c_nx30pro.mini-daily
+
+
+H3C NX30 PRO 闭源驱动Openwrt/GL.inet固件/刷回原厂方法
+## https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8291820&highlight=nx30
