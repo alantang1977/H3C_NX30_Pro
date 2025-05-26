@@ -1,5 +1,8 @@
 # H3C NX30Pro 刷 openwrt 教程
 
+刷写 openwrt
+路由器断电后，先按住背后 Reset 恢复按钮不放，再插电，等待 10s 左右松开背后 Reset，路由器就进入了 uboot，电脑用网线连接路由器 LAN1，并设置好静态 IP：IP地址填 192.168.1.2，子网掩码 255.255.255.0，网关 192.168.1.1，DNS 192.168.1.1。
+
 ## https://blog.qust.me/nx30pro
 
 ## MD5校验:5c12bd472c255a1e28819e95a3151bf1  (uboot.bin)刷时确保MD5校验码正确
